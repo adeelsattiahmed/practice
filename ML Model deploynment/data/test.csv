@@ -1,0 +1,201 @@
+airline,date_of_journey,source,destination,dep_time,arrival_time,duration,total_stops,additional_info,price
+Serene Air,2019-03-03,Islamabad,Rahim Yar Khan,18:15:00,01:35:00,440,1.0,No Info,18916
+Pakistan International Airlines,2019-06-01,Islamabad,Rahim Yar Khan,20:55:00,12:35:00,940,1.0,In-flight meal not included,10262
+Serene Air,2019-06-06,Islamabad,Rahim Yar Khan,07:05:00,16:10:00,545,1.0,No Info,9646
+AIR Blue,2019-03-24,Quetta,Lahore,16:50:00,18:30:00,1540,1.0,No Info,14641
+Serene Air,2019-05-27,Islamabad,Rahim Yar Khan,10:20:00,19:00:00,520,1.0,No Info,9794
+AIR Blue,2019-05-18,Quetta,Lahore,09:25:00,21:50:00,745,1.0,No Info,8366
+Princely Jets,2019-05-15,Lahore,Quetta,23:55:00,02:45:00,170,0.0,No Info,3383
+Serene Air,2019-03-21,Islamabad,Rahim Yar Khan,10:00:00,01:35:00,935,1.0,In-flight meal not included,8565
+Shaheen Airline,2019-03-09,Lahore,Peshawar,12:05:00,17:05:00,300,1.0,No Info,4588
+Shaheen Airline,2019-03-09,Lahore,Peshawar,01:30:00,04:15:00,165,0.0,No Info,6860
+Serene Air,2019-03-27,Islamabad,Rahim Yar Khan,18:00:00,01:35:00,455,1.0,No Info,6673
+AIR Blue,2019-05-27,Quetta,Lahore,20:45:00,23:20:00,155,0.0,No Info,4145
+Pakistan International Airlines,2019-06-27,Islamabad,Rahim Yar Khan,22:50:00,12:35:00,825,1.0,In-flight meal not included,10262
+Askari Air lines,2019-05-24,Quetta,Lahore,11:35:00,18:50:00,435,1.0,No Info,8479
+Pakistan International Airlines,2019-05-18,Quetta,Lahore,18:55:00,08:15:00,800,1.0,In-flight meal not included,7757
+Askari Air lines,2019-04-03,Lahore,Quetta,09:30:00,12:20:00,170,0.0,No Info,3971
+Serene Air,2019-05-18,Islamabad,Rahim Yar Khan,09:15:00,19:15:00,600,1.0,No Info,8309
+Askari Air lines,2019-03-24,Lahore,Peshawar,20:30:00,23:20:00,170,0.0,No check-in baggage included,5469
+Askari Air lines,2019-06-03,Peshawar,Sukkur,05:45:00,07:15:00,90,0.0,No Info,2753
+Serene Air,2019-05-21,Islamabad,Rahim Yar Khan,07:00:00,21:00:00,840,1.0,No Info,7888
+Pakistan International Airlines,2019-05-24,Quetta,Lahore,20:00:00,08:15:00,735,1.0,In-flight meal not included,8586
+Pakistan International Airlines,2019-05-06,Quetta,Lahore,14:05:00,19:50:00,345,1.0,In-flight meal not included,10844
+Askari Air lines,2019-06-12,Islamabad,Rahim Yar Khan,08:45:00,13:15:00,270,1.0,No check-in baggage included,5158
+Serene Air,2019-03-03,Islamabad,Rahim Yar Khan,10:20:00,01:35:00,915,1.0,No Info,15147
+AIR Blue,2019-06-09,Quetta,Lahore,07:00:00,05:25:00,1345,2.0,No Info,12744
+AIR Blue,2019-05-18,Islamabad,Rahim Yar Khan,10:55:00,07:40:00,1245,2.0,No Info,13486
+Serene Air,2019-06-15,Islamabad,Rahim Yar Khan,12:50:00,01:30:00,760,1.0,No Info,6795
+Pakistan International Airlines,2019-05-01,Quetta,Lahore,20:25:00,19:10:00,1365,1.0,In-flight meal not included,9314
+Serene Air,2019-06-01,Islamabad,Rahim Yar Khan,08:00:00,21:00:00,780,1.0,No Info,13587
+Shaheen Airline,2019-03-03,Peshawar,Sukkur,20:05:00,21:35:00,90,0.0,No Info,5232
+AIR Blue,2019-05-06,Quetta,Lahore,16:50:00,15:05:00,1335,2.0,No Info,12434
+Askari Air lines,2019-04-24,Quetta,Lahore,17:10:00,19:40:00,150,0.0,No Info,4174
+Serene Air,2019-05-27,Islamabad,Rahim Yar Khan,11:30:00,01:30:00,840,1.0,In-flight meal not included,6733
+Pakistan International Airlines,2019-03-06,Islamabad,Rahim Yar Khan,19:45:00,04:25:00,520,1.0,No Info,15764
+Shaheen Airline,2019-04-09,Islamabad,Rahim Yar Khan,16:00:00,01:30:00,570,1.0,No Info,6573
+AIR Blue,2019-03-24,Lahore,Peshawar,06:10:00,08:55:00,165,0.0,No Info,3758
+Shaheen Airline,2019-04-09,Quetta,Lahore,15:30:00,18:05:00,155,0.0,No Info,4174
+Princely Jets,2019-05-15,Islamabad,Rahim Yar Khan,16:45:00,22:25:00,340,1.0,No Info,6752
+Pakistan International Airlines,2019-06-09,Peshawar,Sukkur,10:20:00,11:50:00,90,0.0,No Info,5678
+Pakistan International Airlines,2019-03-21,Islamabad,Rahim Yar Khan,02:15:00,18:50:00,995,1.0,In-flight meal not included,7438
+Pakistan International Airlines,2019-05-09,Islamabad,Rahim Yar Khan,13:25:00,12:35:00,1390,2.0,No Info,16704
+Serene Air,2019-06-01,Islamabad,Rahim Yar Khan,09:00:00,19:00:00,600,1.0,No Info,12717
+Pakistan International Airlines,2019-06-03,Peshawar,Sukkur,07:05:00,08:30:00,85,0.0,In-flight meal not included,4995
+Pakistan International Airlines,2019-06-12,Islamabad,Rahim Yar Khan,11:00:00,14:15:00,195,0.0,No Info,9564
+Pakistan International Airlines,2019-03-06,Lahore,Peshawar,11:40:00,11:25:00,1425,1.0,No Info,17261
+Shaheen Airline,2019-05-01,Quetta,Lahore,17:15:00,19:50:00,155,0.0,No Info,4804
+Pakistan International Airlines,2019-03-21,Islamabad,Rahim Yar Khan,10:45:00,18:50:00,485,2.0,In-flight meal not included,8367
+Pakistan International Airlines,2019-04-18,Lahore,Quetta,08:20:00,11:20:00,180,0.0,No Info,7229
+Pakistan International Airlines,2019-06-12,Islamabad,Rahim Yar Khan,05:30:00,19:00:00,810,2.0,In-flight meal not included,10368
+Pakistan International Airlines,2019-06-18,Peshawar,Sukkur,08:45:00,10:15:00,90,0.0,In-flight meal not included,4995
+Pakistan International Airlines,2019-05-15,Quetta,Lahore,18:55:00,10:05:00,910,1.0,No Info,14388
+Serene Air,2019-03-21,Islamabad,Rahim Yar Khan,11:40:00,18:50:00,430,1.0,No Info,11999
+Pakistan International Airlines,2019-06-18,Lahore,Quetta,17:45:00,20:45:00,180,0.0,No Info,8016
+Shaheen Airline,2019-06-06,Islamabad,Rahim Yar Khan,06:50:00,22:30:00,940,1.0,No Info,6674
+Askari Air lines,2019-04-15,Quetta,Lahore,06:55:00,09:30:00,155,0.0,No Info,3873
+Serene Air,2019-05-18,Islamabad,Rahim Yar Khan,13:00:00,01:30:00,750,1.0,No Info,9385
+AIR Blue,2019-06-06,Islamabad,Rahim Yar Khan,14:10:00,17:10:00,180,0.0,No Info,6094
+Askari Air lines,2019-05-06,Quetta,Lahore,09:00:00,11:25:00,145,0.0,No Info,4174
+Serene Air,2019-03-06,Islamabad,Rahim Yar Khan,04:45:00,18:50:00,845,1.0,No Info,13875
+Serene Air,2019-06-03,Islamabad,Rahim Yar Khan,08:30:00,19:15:00,645,1.0,No Info,7677
+AIR Blue,2019-05-24,Peshawar,Sukkur,21:05:00,22:25:00,80,0.0,No Info,3100
+Shaheen Airline,2019-04-21,Islamabad,Rahim Yar Khan,02:00:00,07:45:00,345,1.0,No Info,6258
+Serene Air,2019-06-24,Islamabad,Rahim Yar Khan,09:00:00,21:00:00,720,1.0,No Info,13587
+Shaheen Airline,2019-06-12,Islamabad,Rahim Yar Khan,08:30:00,21:00:00,750,1.0,No Info,6093
+Serene Air,2019-05-18,Islamabad,Rahim Yar Khan,11:30:00,21:00:00,570,1.0,No Info,13727
+Pearl Air,2019-06-09,Quetta,Lahore,07:10:00,20:20:00,790,1.0,No Info,9555
+Shaheen Airline,2019-05-15,Peshawar,Sukkur,21:20:00,22:50:00,90,0.0,No Info,2227
+Serene Air,2019-05-27,Islamabad,Rahim Yar Khan,10:20:00,21:00:00,640,1.0,No Info,7005
+Serene Air,2019-05-27,Islamabad,Rahim Yar Khan,04:55:00,19:00:00,845,1.0,No Info,11573
+Serene Air,2019-06-12,Islamabad,Rahim Yar Khan,07:10:00,22:30:00,920,1.0,No Info,6513
+Shaheen Airline,2019-04-12,Lahore,Quetta,21:15:00,00:15:00,180,0.0,No Info,4990
+Pakistan International Airlines,2019-05-21,Islamabad,Rahim Yar Khan,05:30:00,19:00:00,810,2.0,In-flight meal not included,13029
+Princely Jets,2019-06-06,Quetta,Lahore,07:35:00,19:25:00,710,1.0,No Info,6810
+Pakistan International Airlines,2019-03-24,Quetta,Lahore,16:55:00,19:40:00,1605,1.0,No Info,14231
+Pakistan International Airlines,2019-06-06,Islamabad,Rahim Yar Khan,09:25:00,04:25:00,1140,2.0,In-flight meal not included,11992
+Pakistan International Airlines,2019-04-06,Lahore,Quetta,19:50:00,22:50:00,180,0.0,In-flight meal not included,4544
+AIR Blue,2019-03-27,Islamabad,Rahim Yar Khan,17:15:00,09:25:00,970,2.0,No Info,6057
+Pakistan International Airlines,2019-03-18,Lahore,Peshawar,14:05:00,19:10:00,305,1.0,No Info,14815
+Pakistan International Airlines,2019-05-21,Islamabad,Rahim Yar Khan,08:00:00,19:00:00,660,1.0,No Info,16289
+Princely Jets,2019-06-06,Lahore,Quetta,11:10:00,13:55:00,165,0.0,No Info,4483
+Pakistan International Airlines,2019-04-21,Lahore,Quetta,15:15:00,18:10:00,175,0.0,In-flight meal not included,4544
+AIR Blue,2019-03-15,Lahore,Peshawar,06:55:00,23:20:00,985,1.0,No Info,6987
+Pakistan International Airlines,2019-06-27,Islamabad,Rahim Yar Khan,10:00:00,19:00:00,540,1.0,In-flight meal not included,10262
+Pakistan International Airlines,2019-05-15,Lahore,Quetta,19:50:00,22:50:00,180,0.0,In-flight meal not included,4030
+AIR Blue,2019-03-09,Lahore,Peshawar,17:00:00,16:40:00,1420,1.0,No Info,9292
+Pakistan International Airlines,2019-06-12,Islamabad,Rahim Yar Khan,21:50:00,04:25:00,395,1.0,In-flight meal not included,10262
+Askari Air lines,2019-06-09,Quetta,Lahore,09:00:00,11:25:00,145,0.0,No check-in baggage included,3841
+Serene Air,2019-04-09,Islamabad,Rahim Yar Khan,17:45:00,01:30:00,465,1.0,No Info,8535
+Serene Air,2019-06-24,Islamabad,Rahim Yar Khan,04:55:00,19:00:00,845,1.0,No Info,10678
+Pakistan International Airlines,2019-05-21,Islamabad,Rahim Yar Khan,23:05:00,04:25:00,1760,2.0,No Info,15129
+Pearl Air,2019-06-18,Lahore,Quetta,09:45:00,12:35:00,170,0.0,No Info,4668
+AIR Blue,2019-04-03,Lahore,Quetta,17:00:00,19:45:00,165,0.0,No Info,5176
+Princely Jets,2019-03-09,Lahore,Peshawar,23:25:00,02:10:00,165,0.0,No Info,5615
+Star Air Aviation,2019-04-27,Lahore,Quetta,07:45:00,10:40:00,175,0.0,No Info,5048
+Askari Air lines,2019-05-06,Quetta,Lahore,06:55:00,09:30:00,155,0.0,No check-in baggage included,3841
+Askari Air lines,2019-06-18,Lahore,Quetta,09:30:00,12:20:00,170,0.0,No check-in baggage included,3257
+Pakistan International Airlines,2019-05-18,Quetta,Lahore,08:25:00,08:15:00,1430,1.0,In-flight meal not included,9663
+Pakistan International Airlines,2019-05-12,Quetta,Lahore,14:05:00,23:35:00,570,1.0,No Info,14781
+AIR Blue,2019-05-01,Islamabad,Rahim Yar Khan,17:15:00,09:25:00,970,2.0,No Info,8839
+AIR Blue,2019-06-09,Islamabad,Rahim Yar Khan,19:45:00,19:15:00,1410,2.0,No Info,9968
+Shaheen Airline,2019-05-18,Lahore,Quetta,18:25:00,21:20:00,175,0.0,No Info,4823
+Princely Jets,2019-04-27,Lahore,Quetta,23:55:00,02:45:00,170,0.0,No Info,3383
+Pakistan International Airlines,2019-03-12,Lahore,Peshawar,20:35:00,10:45:00,850,1.0,In-flight meal not included,11087
+Shaheen Airline,2019-06-15,Peshawar,Sukkur,12:00:00,13:30:00,90,0.0,No Info,2754
+AIR Blue,2019-06-15,Lahore,Quetta,17:00:00,19:45:00,165,0.0,No Info,7171
+Shaheen Airline,2019-05-18,Lahore,Quetta,23:30:00,02:20:00,170,0.0,No Info,4591
+Pakistan International Airlines,2019-05-18,Quetta,Lahore,05:45:00,16:20:00,635,1.0,No Info,14781
+Serene Air,2019-06-15,Islamabad,Rahim Yar Khan,10:00:00,19:15:00,555,1.0,No Info,16108
+Pearl Air,2019-06-09,Lahore,Quetta,19:30:00,22:15:00,165,0.0,No Info,4878
+Shaheen Airline,2019-03-15,Lahore,Peshawar,23:30:00,02:20:00,170,0.0,No Info,8033
+Pearl Air,2019-03-06,Peshawar,Sukkur,21:55:00,22:55:00,1500,1.0,No Info,12395
+AIR Blue,2019-05-27,Islamabad,Rahim Yar Khan,05:15:00,19:15:00,2280,3.0,No Info,10493
+Shaheen Airline,2019-06-01,Faisalabad,Islamabad,13:15:00,15:35:00,140,0.0,No Info,3597
+Princely Jets,2019-06-18,Lahore,Quetta,23:55:00,02:45:00,170,0.0,No Info,3383
+Shaheen Airline,2019-05-15,Islamabad,Rahim Yar Khan,11:25:00,01:30:00,845,1.0,No Info,6979
+AIR Blue,2019-06-27,Islamabad,Rahim Yar Khan,10:55:00,19:15:00,500,2.0,No Info,11753
+AIR Blue,2019-04-01,Quetta,Lahore,16:50:00,18:20:00,1530,2.0,No Info,7893
+AIR Blue,2019-03-12,Peshawar,Sukkur,21:10:00,16:55:00,255,2.0,No Info,16172
+Pakistan International Airlines,2019-06-06,Quetta,Lahore,20:00:00,18:15:00,1335,1.0,In-flight meal not included,10844
+Pakistan International Airlines,2019-05-27,Lahore,Quetta,07:10:00,10:10:00,180,0.0,No Info,7229
+Pakistan International Airlines,2019-05-18,Islamabad,Rahim Yar Khan,13:25:00,19:00:00,1775,2.0,No Info,16704
+Shaheen Airline,2019-06-12,Islamabad,Rahim Yar Khan,17:10:00,01:30:00,500,1.0,No Info,5883
+Pakistan International Airlines,2019-06-01,Lahore,Quetta,17:45:00,20:45:00,180,0.0,In-flight meal not included,7229
+Pakistan International Airlines,2019-05-24,Lahore,Quetta,06:00:00,08:45:00,165,0.0,No Info,7229
+AIR Blue,2019-03-15,Lahore,Peshawar,05:50:00,22:10:00,980,2.0,No Info,10111
+Shaheen Airline,2019-06-21,Lahore,Quetta,22:10:00,01:00:00,170,0.0,No Info,3943
+Shaheen Airline,2019-05-03,Quetta,Lahore,11:30:00,14:05:00,155,0.0,No Info,5224
+Shaheen Airline,2019-03-15,Quetta,Lahore,15:20:00,17:55:00,155,0.0,No Info,4148
+Shaheen Airline,2019-05-15,Islamabad,Rahim Yar Khan,06:50:00,12:10:00,320,1.0,No Info,5298
+Pearl Air,2019-05-01,Quetta,Lahore,17:00:00,18:50:00,1550,1.0,No Info,8610
+AIR Blue,2019-05-24,Quetta,Lahore,07:00:00,20:25:00,805,1.0,No Info,10413
+AIR Blue,2019-03-27,Quetta,Lahore,14:15:00,16:45:00,150,0.0,No Info,5170
+Askari Air lines,2019-05-12,Lahore,Quetta,09:30:00,12:20:00,170,0.0,No check-in baggage included,4319
+AIR Blue,2019-05-12,Islamabad,Rahim Yar Khan,05:10:00,08:00:00,170,0.0,No Info,6094
+Serene Air,2019-05-18,Islamabad,Rahim Yar Khan,10:20:00,01:30:00,910,1.0,No Info,7670
+Askari Air lines,2019-04-24,Lahore,Quetta,09:30:00,12:20:00,170,0.0,No check-in baggage included,3919
+Shaheen Airline,2019-03-27,Peshawar,Sukkur,06:20:00,07:45:00,85,0.0,No Info,3175
+Askari Air lines,2019-05-15,Quetta,Lahore,17:10:00,19:40:00,150,0.0,No Info,4174
+AIR Blue,2019-03-09,Islamabad,Rahim Yar Khan,20:30:00,08:15:00,705,1.0,No Info,8991
+AIR Blue,2019-05-21,Quetta,Lahore,08:20:00,07:55:00,1415,2.0,No Info,11222
+Serene Air,2019-03-21,Islamabad,Rahim Yar Khan,10:00:00,21:00:00,660,1.0,In-flight meal not included,8085
+Pakistan International Airlines,2019-06-27,Lahore,Quetta,08:20:00,11:20:00,180,0.0,In-flight meal not included,6478
+Pakistan International Airlines,2019-03-06,Lahore,Peshawar,22:50:00,23:00:00,1450,1.0,No Info,17471
+Askari Air lines,2019-04-24,Quetta,Lahore,17:10:00,19:40:00,150,0.0,No check-in baggage included,3841
+Askari Air lines,2019-04-18,Quetta,Lahore,22:20:00,00:40:00,140,0.0,No Info,4174
+AIR Blue,2019-03-03,Lahore,Peshawar,08:15:00,08:50:00,1475,1.0,No Info,6781
+Pearl Air,2019-04-18,Lahore,Quetta,09:45:00,12:35:00,170,0.0,No Info,5403
+Pakistan International Airlines,2019-06-03,Lahore,Quetta,07:10:00,10:10:00,180,0.0,In-flight meal not included,5769
+Princely Jets,2019-05-18,Quetta,Lahore,19:55:00,22:25:00,150,0.0,No Info,5989
+Pearl Air,2019-06-03,Islamabad,Rahim Yar Khan,14:40:00,17:50:00,190,0.0,No Info,6216
+Serene Air,2019-03-06,Islamabad,Rahim Yar Khan,09:10:00,19:15:00,605,1.0,No Info,15077
+AIR Blue,2019-03-27,Faisalabad,Islamabad,11:40:00,13:55:00,135,0.0,No Info,3145
+Pakistan International Airlines,2019-06-27,Peshawar,Sukkur,08:45:00,10:15:00,90,0.0,No Info,8040
+Pakistan International Airlines,2019-05-24,Quetta,Lahore,14:05:00,19:50:00,345,1.0,In-flight meal not included,10844
+AIR Blue,2019-03-06,Islamabad,Rahim Yar Khan,07:05:00,19:15:00,2170,2.0,No Info,11552
+Pakistan International Airlines,2019-03-09,Islamabad,Rahim Yar Khan,10:45:00,04:25:00,1060,2.0,In-flight meal not included,15654
+Princely Jets,2019-03-24,Quetta,Lahore,07:35:00,19:25:00,710,1.0,No Info,6785
+Pakistan International Airlines,2019-03-21,Islamabad,Rahim Yar Khan,16:10:00,18:50:00,1600,2.0,In-flight meal not included,8728
+AIR Blue,2019-04-01,Quetta,Lahore,09:50:00,21:05:00,675,1.0,No Info,8030
+Shaheen Airline,2019-04-27,Islamabad,Rahim Yar Khan,21:50:00,03:35:00,345,1.0,No Info,6307
+Shaheen Airline,2019-03-06,Quetta,Lahore,22:10:00,00:55:00,165,0.0,No Info,4778
+Pakistan International Airlines,2019-03-06,Lahore,Peshawar,08:55:00,07:40:00,1365,1.0,No Info,14815
+AIR Blue,2019-03-24,Quetta,Lahore,20:30:00,12:30:00,960,1.0,No Info,12173
+Pakistan International Airlines,2019-05-09,Quetta,Lahore,06:30:00,19:50:00,800,1.0,No Info,14781
+Pearl Air,2019-04-15,Lahore,Quetta,19:30:00,22:15:00,165,0.0,No Info,5613
+Shaheen Airline,2019-03-15,Faisalabad,Islamabad,14:40:00,17:05:00,145,0.0,No Info,6297
+Pakistan International Airlines,2019-05-24,Quetta,Lahore,14:05:00,09:20:00,1155,1.0,No Info,14178
+Shaheen Airline,2019-03-06,Islamabad,Rahim Yar Khan,14:30:00,17:35:00,185,0.0,No Info,7673
+Pakistan International Airlines,2019-04-24,Lahore,Quetta,15:15:00,18:10:00,175,0.0,No Info,7229
+Shaheen Airline,2019-04-21,Islamabad,Rahim Yar Khan,02:00:00,07:25:00,325,1.0,No Info,5636
+AIR Blue,2019-05-09,Islamabad,Rahim Yar Khan,13:00:00,19:15:00,375,1.0,No Info,8372
+Pakistan International Airlines,2019-06-03,Islamabad,Rahim Yar Khan,11:40:00,19:00:00,440,2.0,In-flight meal not included,15812
+Pearl Air,2019-06-06,Quetta,Lahore,20:20:00,09:05:00,765,1.0,No Info,8452
+Shaheen Airline,2019-03-09,Quetta,Lahore,17:15:00,19:55:00,160,0.0,No Info,4778
+AIR Blue,2019-05-18,Islamabad,Rahim Yar Khan,05:10:00,08:00:00,170,0.0,No Info,6934
+AIR Blue,2019-06-12,Quetta,Lahore,20:30:00,20:25:00,1435,1.0,No Info,10203
+AIR Blue,2019-05-09,Islamabad,Rahim Yar Khan,05:00:00,07:40:00,1600,2.0,No Info,11281
+Pakistan International Airlines,2019-06-03,Islamabad,Rahim Yar Khan,19:30:00,04:25:00,535,2.0,In-flight meal not included,10368
+Pakistan International Airlines,2019-03-12,Peshawar,Sukkur,06:30:00,16:35:00,605,2.0,No Info,23528
+Serene Air,2019-05-15,Islamabad,Rahim Yar Khan,07:05:00,22:30:00,925,1.0,No Info,9646
+AIR Blue,2019-05-24,Quetta,Lahore,09:50:00,23:15:00,805,2.0,No Info,15170
+Shaheen Airline,2019-04-06,Quetta,Lahore,22:15:00,00:50:00,155,0.0,No Info,4174
+Askari Air lines,2019-03-24,Faisalabad,Islamabad,08:20:00,10:35:00,135,0.0,No check-in baggage included,3807
+Pakistan International Airlines,2019-03-06,Lahore,Peshawar,14:05:00,09:30:00,1165,1.0,No Info,17261
+Serene Air,2019-03-03,Islamabad,Rahim Yar Khan,07:00:00,13:20:00,380,1.0,No Info,15603
+Pakistan International Airlines,2019-05-15,Lahore,Quetta,17:45:00,20:45:00,180,0.0,No Info,7229
+Shaheen Airline,2019-06-27,Islamabad,Rahim Yar Khan,10:35:00,21:00:00,625,1.0,No Info,5894
+Askari Air lines,2019-05-24,Quetta,Lahore,06:55:00,09:30:00,155,0.0,No check-in baggage included,3841
+Pakistan International Airlines,2019-04-15,Lahore,Quetta,19:50:00,22:50:00,180,0.0,No Info,7229
+AIR Blue,2019-06-27,Islamabad,Rahim Yar Khan,13:30:00,23:00:00,570,1.0,No Info,8907
+Shaheen Airline,2019-04-09,Islamabad,Rahim Yar Khan,15:00:00,01:30:00,630,1.0,No Info,6270
+Shaheen Airline,2019-05-18,Islamabad,Rahim Yar Khan,07:35:00,22:30:00,895,1.0,No Info,7144
+Pakistan International Airlines,2019-06-09,Islamabad,Rahim Yar Khan,09:00:00,04:25:00,1165,1.0,In-flight meal not included,10262
+Shaheen Airline,2019-03-27,Islamabad,Rahim Yar Khan,04:45:00,13:20:00,515,1.0,No Info,7048
+Princely Jets,2019-05-21,Quetta,Lahore,07:35:00,23:30:00,955,1.0,No Info,5192
+Askari Air lines,2019-04-21,Quetta,Lahore,06:55:00,09:30:00,155,0.0,No Info,4174
+Serene Air,2019-06-01,Islamabad,Rahim Yar Khan,11:40:00,19:15:00,455,1.0,No Info,10261
+Shaheen Airline,2019-03-21,Peshawar,Sukkur,21:20:00,22:45:00,85,0.0,No Info,2227
+Pakistan International Airlines,2019-06-03,Islamabad,Rahim Yar Khan,16:00:00,12:35:00,1235,1.0,In-flight meal not included,10262
+Shaheen Airline,2019-03-15,Peshawar,Sukkur,09:10:00,10:40:00,90,0.0,No Info,4049
